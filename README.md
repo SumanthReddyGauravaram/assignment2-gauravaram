@@ -33,4 +33,4 @@ Here are the List of food items that needs to be tried in maryville.
 | Pizza  | Mooyah        | 7$    |
 | Coke   | KFC           | 2$    | 
 
-About Me - **[page](AboutMe.md)**
+About Me - **[My Pic](AboutMe.md)**
