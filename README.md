@@ -40,3 +40,20 @@ About Me - **[My Pic](AboutMe.md)**
 > The art of life is to know how to enjoy a little and to endure very much *Bertrand Russell*
 
 > The good life is one inspired by love and guided by knowledge *William Hazlitt*
+
+---
+# Code Fencing in Finding Power of Factorial Divisor
+
+> The idea is based on Legendre’s formula which finds largest power of a prime number that divides fact!. We find all prime factors of n. For every prime factor we find largest power of it that divides fact!. Finally we return minimum of all found powers. <https://www.geeksforgeeks.org/find-maximum-power-number-divides-factorial/>
+
+~~~
+int fact_pow (int n, int k) {
+    int res = 0;
+    while (n) {
+        n /= k;
+        res += n;
+    }
+    return res;
+}
+~~~
+<https://cp-algorithms.com/algebra/factorial-divisors.html>
