@@ -34,3 +34,9 @@ Here are the List of food items that needs to be tried in maryville.
 | Coke   | KFC           | 2$    | 
 
 About Me - **[My Pic](AboutMe.md)**
+
+---
+# Pithy Quotes
+> The art of life is to know how to enjoy a little and to endure very much *Bertrand Russell*
+
+> The good life is one inspired by love and guided by knowledge *William Hazlitt*
